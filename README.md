@@ -47,3 +47,11 @@
 - **Additive Seasonality with Trend**
 - **Multiplicative Seasonality with No Trend**
 - **Multiplicative Seasonality with Trend**
+
+## Stationary Data:
+    - **Mean is constant**
+    - **Stationary Deviation Constant**
+    - **No Seasonality Trend**
+
+### White Noice Data:
+    - Time Series that stores no auto correlations are called white noise. or No correlation itself
